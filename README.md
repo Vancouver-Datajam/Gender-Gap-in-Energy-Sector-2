@@ -1,18 +1,21 @@
-# Vancouver Datajam 2021 Project template 
+# Vancouver Datajam 2023 Project  
 
-This repository contains a Python project template.
 
-## Project title
- Gender Gap in Energy Sector
+
+## Project title: 
+Gender Gap in Energy Sector
 ## Project statement
+Women remain underrepresented in technical and leadership roles within the energy sector. They often face wage disparities, with women in energy roles earning less than their male counterparts. This data is on gender gaps in the energy sector in employment and wages, senior management, entrepreneurship and innovation.
+
+This analysis aims to identify the root causes of these disparities, quantify and understand their extent, and propose actionable strategies for achieving gender equality and inclusivity within the sector.
 
 ## Project team members
 
-Team lead:
+Team lead: Shubhleen Dhaka
 
-Mentor:
+Mentor: Justin 
 
-Documentation:
+Documentation: https://docs.google.com/document/d/1WPQjWubl5KYAr7vXI95l43X94FRrlINW5TcaQZVWnDI/edit?usp=sharing 
 
 Scripting:
 
